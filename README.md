@@ -1,2 +1,3 @@
 # INP-Vernam-Cipher-DXL
-Doing Vernam Cipher using DXL assembler
+Vernam Cipher using DXL assembler.
+Part of INP courses projects.
